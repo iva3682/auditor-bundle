@@ -73,8 +73,5 @@
             "type": "vcs",
             "url": "https://github.com/iva3682/auditor"
         }
-    ],
-    "replace": {
-        "damienharper/auditor-bundle": "5.0.2"
-    }
+    ]
 }
