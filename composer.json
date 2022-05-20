@@ -13,7 +13,7 @@
     "require": {
         "php": ">=7.4",
         "ext-json": "*",
-        "iva3682/auditor": "dev-master",
+        "iva3682/auditor": "^2.0",
         "doctrine/annotations": "^1.8",
         "doctrine/doctrine-bundle": "^1.9|^2.0",
         "doctrine/orm": "^2.7",
@@ -71,7 +71,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:iva3682/auditor.git"
+            "url": "https://github.com/iva3682/auditor"
         }
     ],
     "replace": {
