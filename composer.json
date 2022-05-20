@@ -68,11 +68,6 @@
             "composer/package-versions-deprecated": true
         }
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "5.x-dev"
-        }
-    },
     "repositories": [
         {
             "type": "vcs",
