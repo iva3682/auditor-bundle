@@ -1,5 +1,5 @@
 {
-    "name": "damienharper/auditor-bundle",
+    "name": "iva3682/auditor-bundle",
     "type": "symfony-bundle",
     "description": "Integrate auditor library in your Symfony projects.",
     "keywords": ["doctrine", "audit", "auditor", "audit-log", "audit-trail"],
@@ -13,7 +13,7 @@
     "require": {
         "php": ">=7.4",
         "ext-json": "*",
-        "damienharper/auditor": "^2.0",
+        "iva3682/auditor": "dev-master",
         "doctrine/annotations": "^1.8",
         "doctrine/doctrine-bundle": "^1.9|^2.0",
         "doctrine/orm": "^2.7",
@@ -72,5 +72,14 @@
         "branch-alias": {
             "dev-master": "5.x-dev"
         }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:iva3682/auditor.git"
+        }
+    ],
+    "replace": {
+        "damienharper/auditor-bundle": "5.0.1"
     }
 }
