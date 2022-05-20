@@ -71,7 +71,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/iva3682/auditor"
+            "url": "git@github.com:iva3682/auditor.git"
         }
     ],
     "replace": {
