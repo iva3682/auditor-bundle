@@ -1,7 +1,6 @@
 {
     "name": "iva3682/auditor-bundle",
     "type": "symfony-bundle",
-    "minimum-stability": "dev",
     "description": "Integrate auditor library in your Symfony projects.",
     "keywords": ["doctrine", "audit", "auditor", "audit-log", "audit-trail"],
     "license": "MIT",
