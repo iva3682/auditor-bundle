@@ -75,6 +75,6 @@
         }
     ],
     "replace": {
-        "damienharper/auditor-bundle": "^5.0"
+        "damienharper/auditor-bundle": "5.0.2"
     }
 }
